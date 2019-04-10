@@ -1,3 +1,2 @@
 # Quant-Research
-Quantitative finance research notebooks 
-Research Projects to find alpha factor in algorithmic trading strategies 
+Quantitative finance research notebooks to find alpha factors in algorithmic trading strategies 
